@@ -1,8 +1,14 @@
+.metadata/
+.settings/
+.classpath
+.project
+src/com/nigeldouglass/voxel/api/blocks/BlockRegistry.java
+
 # Compiled class file
 *.class
 
 # Log file
-*.log
+*.log 
 
 # BlueJ files
 *.ctxt
